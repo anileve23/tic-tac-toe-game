@@ -10,7 +10,7 @@ A simple **Tic-Tac-Toe** game built using **Python** and **tkinter** for the GUI
 
 1. **Clone or Download** the repo:  
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
+   git clone https://github.com/anileve23/tic-tac-toe-game.git
    ```
 
 2. **Open in VS Code**:  
